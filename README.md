@@ -20,7 +20,7 @@ This analysis utilizes data from the **2019 and 2021 SMART: BRFSS City and Count
 
 ## Analytical Approach
 
-Our methodology employs predictive modeling techniques, including Decision Trees, Random Forests, K-nearest neighbors, and Neural Networks, to explore the datasets' shared features and their predictive capabilities. The analysis is performed using Python, with extensive use of libraries such as TensorFlow, Seaborn, NumPy, Matplotlib, Scikit-learn, and Pandas for data processing and analysis. Tableau is used for data visualization to illustrate the findings effectively.
+Our methodology employs predictive modeling techniques, including Decision Trees and Random Forests to explore the datasets' shared features and their predictive capabilities. The analysis is performed using Python, with extensive use of libraries such as TensorFlow, Seaborn, NumPy, Matplotlib, Scikit-learn, and Pandas for data processing and analysis. Tableau is used for data visualization to illustrate the findings effectively.
 
 ## Expected Outcomes
 
